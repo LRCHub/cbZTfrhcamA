@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "It's the Most Wonderful Time of the Year",
+  "base_artist": "Andy Williams",
+  "createdAt": "2025-12-25T10:50:11.110455Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "It's the Most Wonderful Time of the Year",
+      "artist": "Kylie",
+      "has_synced": true,
+      "path": "select/01_It's_the_Most_Wonderful_Time_of_the_Year_Kylie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It's the Most Wonderful Time of the Year",
+      "artist": "Pentatonix",
+      "has_synced": true,
+      "path": "select/02_It's_the_Most_Wonderful_Time_of_the_Year_Pentatonix.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "It's the Most Wonderful Time of the Year",
+      "artist": "Nadja",
+      "has_synced": true,
+      "path": "select/03_It's_the_Most_Wonderful_Time_of_the_Year_Nadja.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "It's the Most Wonderful Time of the Year",
+      "artist": "Sammy",
+      "has_synced": true,
+      "path": "select/04_It's_the_Most_Wonderful_Time_of_the_Year_Sammy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "It's the Most Wonderful Time of the Year",
+      "artist": "Plus One",
+      "has_synced": false,
+      "path": "select/05_It's_the_Most_Wonderful_Time_of_the_Year_Plus_One.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "It's The Most Wonderful Time Of The Year",
+      "artist": "Andy Williams",
+      "has_synced": true,
+      "path": "select/06_It's_The_Most_Wonderful_Time_Of_The_Year_Andy_Williams.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "It’s the Most Wonderful Time of the Year",
+      "artist": "Vince Gill",
+      "has_synced": false,
+      "path": "select/07_It’s_the_Most_Wonderful_Time_of_the_Year_Vince_Gill.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "It’s the Most Wonderful Time of the Year",
+      "artist": "Vince Gill",
+      "has_synced": true,
+      "path": "select/08_It’s_the_Most_Wonderful_Time_of_the_Year_Vince_Gill.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "It's the Most Wonderful Time of the Year",
+      "artist": "Reik",
+      "has_synced": true,
+      "path": "select/09_It's_the_Most_Wonderful_Time_of_the_Year_Reik.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It's The Most Wonderful Time Of The Year",
+      "artist": "Kylie Minogue",
+      "has_synced": true,
+      "path": "select/10_It's_The_Most_Wonderful_Time_Of_The_Year_Kylie_Minogue.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "It's the Most Wonderful Time of the Year (Karaoke)",
+      "artist": "7clouds",
+      "has_synced": true,
+      "path": "select/11_It's_the_Most_Wonderful_Time_of_the_Year_(Karaoke)_7clouds.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "It's The Most Wonderful Time Of The Year",
+      "artist": "Verschiedene",
+      "has_synced": false,
+      "path": "select/12_It's_The_Most_Wonderful_Time_Of_The_Year_Verschiedene.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "It’s the Most Wonderful Time of the Year",
+      "artist": "Kylie",
+      "has_synced": true,
+      "path": "select/13_It’s_the_Most_Wonderful_Time_of_the_Year_Kylie.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "It's the Most Wonderful Time of the Year",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/14_It's_the_Most_Wonderful_Time_of_the_Year_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "It’s the Most Wonderful Time of the Year",
+      "artist": "Andy Williams",
+      "has_synced": false,
+      "path": "select/15_It’s_the_Most_Wonderful_Time_of_the_Year_Andy_Williams.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "It's the Most Wonderful Time of the Year",
+      "artist": "Huey",
+      "has_synced": true,
+      "path": "select/16_It's_the_Most_Wonderful_Time_of_the_Year_Huey.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "It's the Most Wonderful Time of the Year",
+      "artist": "Andy Williams",
+      "has_synced": false,
+      "path": "select/17_It's_the_Most_Wonderful_Time_of_the_Year_Andy_Williams.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "It's the Most Wonderful Time of the Year",
+      "artist": "Kylie Minogue",
+      "has_synced": true,
+      "path": "select/18_It's_the_Most_Wonderful_Time_of_the_Year_Kylie_Minogue.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "It's The Most Wonderful Time Of The Year",
+      "artist": "Andy Williams",
+      "has_synced": true,
+      "path": "select/19_It's_The_Most_Wonderful_Time_Of_The_Year_Andy_Williams.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "It's the Most Wonderful Time of the Year",
+      "artist": "Andy Williams",
+      "has_synced": false,
+      "path": "select/pl_01_It's_the_Most_Wonderful_Time_of_the_Year_Andy_Williams.txt"
+    }
+  ]
+}
